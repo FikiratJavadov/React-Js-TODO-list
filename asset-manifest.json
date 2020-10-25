@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/React-Js-TODO-List-App.git/static/css/main.87e20890.chunk.css",
-    "main.js": "/React-Js-TODO-List-App.git/static/js/main.252a498b.chunk.js",
-    "main.js.map": "/React-Js-TODO-List-App.git/static/js/main.252a498b.chunk.js.map",
-    "runtime-main.js": "/React-Js-TODO-List-App.git/static/js/runtime-main.7cb61c85.js",
-    "runtime-main.js.map": "/React-Js-TODO-List-App.git/static/js/runtime-main.7cb61c85.js.map",
-    "static/js/2.4fd0f5b6.chunk.js": "/React-Js-TODO-List-App.git/static/js/2.4fd0f5b6.chunk.js",
-    "static/js/2.4fd0f5b6.chunk.js.map": "/React-Js-TODO-List-App.git/static/js/2.4fd0f5b6.chunk.js.map",
-    "index.html": "/React-Js-TODO-List-App.git/index.html",
-    "precache-manifest.b6c863d47a90a84e685399722bcab848.js": "/React-Js-TODO-List-App.git/precache-manifest.b6c863d47a90a84e685399722bcab848.js",
-    "service-worker.js": "/React-Js-TODO-List-App.git/service-worker.js",
-    "static/css/main.87e20890.chunk.css.map": "/React-Js-TODO-List-App.git/static/css/main.87e20890.chunk.css.map",
-    "static/js/2.4fd0f5b6.chunk.js.LICENSE.txt": "/React-Js-TODO-List-App.git/static/js/2.4fd0f5b6.chunk.js.LICENSE.txt"
+    "main.css": "/React-Js-TODO-list.git/static/css/main.87e20890.chunk.css",
+    "main.js": "/React-Js-TODO-list.git/static/js/main.fe031c43.chunk.js",
+    "main.js.map": "/React-Js-TODO-list.git/static/js/main.fe031c43.chunk.js.map",
+    "runtime-main.js": "/React-Js-TODO-list.git/static/js/runtime-main.7f72939e.js",
+    "runtime-main.js.map": "/React-Js-TODO-list.git/static/js/runtime-main.7f72939e.js.map",
+    "static/js/2.4fd0f5b6.chunk.js": "/React-Js-TODO-list.git/static/js/2.4fd0f5b6.chunk.js",
+    "static/js/2.4fd0f5b6.chunk.js.map": "/React-Js-TODO-list.git/static/js/2.4fd0f5b6.chunk.js.map",
+    "index.html": "/React-Js-TODO-list.git/index.html",
+    "precache-manifest.81e60e942fd77efee23aecbbbe9fc0e6.js": "/React-Js-TODO-list.git/precache-manifest.81e60e942fd77efee23aecbbbe9fc0e6.js",
+    "service-worker.js": "/React-Js-TODO-list.git/service-worker.js",
+    "static/css/main.87e20890.chunk.css.map": "/React-Js-TODO-list.git/static/css/main.87e20890.chunk.css.map",
+    "static/js/2.4fd0f5b6.chunk.js.LICENSE.txt": "/React-Js-TODO-list.git/static/js/2.4fd0f5b6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7cb61c85.js",
+    "static/js/runtime-main.7f72939e.js",
     "static/js/2.4fd0f5b6.chunk.js",
     "static/css/main.87e20890.chunk.css",
-    "static/js/main.252a498b.chunk.js"
+    "static/js/main.fe031c43.chunk.js"
   ]
 }
